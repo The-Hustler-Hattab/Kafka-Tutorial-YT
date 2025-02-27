@@ -2,7 +2,10 @@
 # Kafka File Processing Demo
 
 This project demonstrates how to process files concurrently in a distributed environment using Java Spring Boot, Docker Compose, and Kafka from Conduktor.
-
+  
+## Youtube Tutorial  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/04ebTCxZoQs/0.jpg)](https://www.youtube.com/watch?v=04ebTCxZoQs&ab_channel=MohammedHattab)
+  
 ## Prerequisites
 
 - Java 17 or higher
