@@ -5,7 +5,7 @@ This project demonstrates how to process files concurrently in a distributed env
 
 ## Prerequisites
 
-- Java 11 or higher
+- Java 17 or higher
 - Docker and Docker Compose
 - Conduktor Kafka
 
